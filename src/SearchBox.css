@@ -1,0 +1,15 @@
+.SearchBox{
+    text-align: center;
+    margin-top: 2;
+    color: white;
+    
+}
+#city{
+    display: block;
+}
+#btn{
+    margin-left: 30px;
+    height: 55px;
+    width: 120px;
+    border-radius: 6px;
+}
